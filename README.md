@@ -6,6 +6,6 @@
  <title>Hello!</title>
 </head>
 <body>
- Hello! lol
+ Hello!
 </body>
 </html>
