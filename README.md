@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <title>Авто</title>
+ <title>auto</title>
  <meta charset="UTF-8">
  <title>Hello!</title>
 </head>
